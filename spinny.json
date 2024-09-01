@@ -1,0 +1,1082 @@
+[
+  {
+    "Model":"Hyundai",
+    "Year":6,
+    "Km_Driven":"34K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"21.1 kmpl",
+    "Price":339900
+  },
+  {
+    "Model":"Hyundai",
+    "Year":12,
+    "Km_Driven":"65K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"20.36 kmpl",
+    "Price":278388
+  },
+  {
+    "Model":"Hyundai",
+    "Year":10,
+    "Km_Driven":"105K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"21.9 kmpl",
+    "Price":519120
+  },
+  {
+    "Model":"Ford",
+    "Year":9,
+    "Km_Driven":"67K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"22.7 kmpl",
+    "Price":597360
+  },
+  {
+    "Model":"Maruti",
+    "Year":6,
+    "Km_Driven":"45K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"24.07 kmpl",
+    "Price":396180
+  },
+  {
+    "Model":"Honda",
+    "Year":5,
+    "Km_Driven":"90K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"16.5 kmpl",
+    "Price":752460
+  },
+  {
+    "Model":"Hyundai",
+    "Year":8,
+    "Km_Driven":"36K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.6 kmpl",
+    "Price":605220
+  },
+  {
+    "Model":"Honda",
+    "Year":8,
+    "Km_Driven":"88K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.7 kmpl",
+    "Price":520080
+  },
+  {
+    "Model":"Hyundai",
+    "Year":9,
+    "Km_Driven":"49K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.6 kmpl",
+    "Price":622440
+  },
+  {
+    "Model":"Hyundai",
+    "Year":6,
+    "Km_Driven":"75K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.6 kmpl",
+    "Price":713940
+  },
+  {
+    "Model":"Hyundai",
+    "Year":7,
+    "Km_Driven":"75K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"22.54 kmpl",
+    "Price":716580
+  },
+  {
+    "Model":"Kia",
+    "Year":3,
+    "Km_Driven":"111K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Automatic",
+    "Mileage":"17.8 kmpl",
+    "Price":1714620
+  },
+  {
+    "Model":"Hyundai",
+    "Year":6,
+    "Km_Driven":"59K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"22.54 kmpl",
+    "Price":796680
+  },
+  {
+    "Model":"Ford",
+    "Year":7,
+    "Km_Driven":"52K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.5 kmpl",
+    "Price":524280
+  },
+  {
+    "Model":"Hyundai",
+    "Year":7,
+    "Km_Driven":"51K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.9 kmpl",
+    "Price":589740
+  },
+  {
+    "Model":"Hyundai",
+    "Year":2,
+    "Km_Driven":"21K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"20.7 kmpl",
+    "Price":785220
+  },
+  {
+    "Model":"Hyundai",
+    "Year":6,
+    "Km_Driven":"81K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"19.77 kmpl",
+    "Price":582120
+  },
+  {
+    "Model":"Honda",
+    "Year":6,
+    "Km_Driven":"58K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"25.6 kmpl",
+    "Price":1134720
+  },
+  {
+    "Model":"Hyundai",
+    "Year":2,
+    "Km_Driven":"79K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"25.2 kmpl",
+    "Price":1080120
+  },
+  {
+    "Model":"Honda",
+    "Year":1,
+    "Km_Driven":"75K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.6 kmpl",
+    "Price":813960
+  },
+  {
+    "Model":"Hyundai",
+    "Year":6,
+    "Km_Driven":"34K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"21.1 kmpl",
+    "Price":339900
+  },
+  {
+    "Model":"Hyundai",
+    "Year":12,
+    "Km_Driven":"65K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"20.36 kmpl",
+    "Price":278388
+  },
+  {
+    "Model":"Hyundai",
+    "Year":10,
+    "Km_Driven":"105K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"21.9 kmpl",
+    "Price":519120
+  },
+  {
+    "Model":"Ford",
+    "Year":9,
+    "Km_Driven":"67K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"22.7 kmpl",
+    "Price":597360
+  },
+  {
+    "Model":"Maruti",
+    "Year":6,
+    "Km_Driven":"45K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"24.07 kmpl",
+    "Price":396180
+  },
+  {
+    "Model":"Honda",
+    "Year":5,
+    "Km_Driven":"90K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"16.5 kmpl",
+    "Price":752460
+  },
+  {
+    "Model":"Hyundai",
+    "Year":8,
+    "Km_Driven":"36K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.6 kmpl",
+    "Price":605220
+  },
+  {
+    "Model":"Honda",
+    "Year":8,
+    "Km_Driven":"88K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.7 kmpl",
+    "Price":520080
+  },
+  {
+    "Model":"Hyundai",
+    "Year":9,
+    "Km_Driven":"49K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.6 kmpl",
+    "Price":622440
+  },
+  {
+    "Model":"Hyundai",
+    "Year":6,
+    "Km_Driven":"75K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.6 kmpl",
+    "Price":713940
+  },
+  {
+    "Model":"Hyundai",
+    "Year":7,
+    "Km_Driven":"75K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"22.54 kmpl",
+    "Price":716580
+  },
+  {
+    "Model":"Kia",
+    "Year":3,
+    "Km_Driven":"111K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Automatic",
+    "Mileage":"17.8 kmpl",
+    "Price":1714620
+  },
+  {
+    "Model":"Hyundai",
+    "Year":6,
+    "Km_Driven":"59K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"22.54 kmpl",
+    "Price":796680
+  },
+  {
+    "Model":"Ford",
+    "Year":7,
+    "Km_Driven":"52K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.5 kmpl",
+    "Price":524280
+  },
+  {
+    "Model":"Hyundai",
+    "Year":7,
+    "Km_Driven":"51K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.9 kmpl",
+    "Price":589740
+  },
+  {
+    "Model":"Hyundai",
+    "Year":2,
+    "Km_Driven":"21K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"20.7 kmpl",
+    "Price":785220
+  },
+  {
+    "Model":"Hyundai",
+    "Year":6,
+    "Km_Driven":"81K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"19.77 kmpl",
+    "Price":582120
+  },
+  {
+    "Model":"Honda",
+    "Year":6,
+    "Km_Driven":"58K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"25.6 kmpl",
+    "Price":1134720
+  },
+  {
+    "Model":"Hyundai",
+    "Year":2,
+    "Km_Driven":"79K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"25.2 kmpl",
+    "Price":1080120
+  },
+  {
+    "Model":"Honda",
+    "Year":1,
+    "Km_Driven":"75K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.6 kmpl",
+    "Price":813960
+  },
+  {
+    "Model":"Hyundai",
+    "Year":8,
+    "Km_Driven":"107K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"21.19 kmpl",
+    "Price":721140
+  },
+  {
+    "Model":"Maruti",
+    "Year":9,
+    "Km_Driven":"83K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"23.2 kmpl",
+    "Price":414660
+  },
+  {
+    "Model":"Honda",
+    "Year":6,
+    "Km_Driven":"54K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"16.5 kmpl",
+    "Price":826740
+  },
+  {
+    "Model":"Hyundai",
+    "Year":7,
+    "Km_Driven":"81K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"19.67 kmpl",
+    "Price":1016400
+  },
+  {
+    "Model":"Hyundai",
+    "Year":5,
+    "Km_Driven":"102K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Automatic",
+    "Mileage":"22 kmpl",
+    "Price":1083360
+  },
+  {
+    "Model":"Honda",
+    "Year":5,
+    "Km_Driven":"45K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Automatic",
+    "Mileage":"17.1 kmpl",
+    "Price":717780
+  },
+  {
+    "Model":"Maruti",
+    "Year":5,
+    "Km_Driven":"86K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"28.09 kmpl",
+    "Price":957780
+  },
+  {
+    "Model":"Maruti",
+    "Year":10,
+    "Km_Driven":"62K km",
+    "Engine_Type":"Petrol+cng",
+    "Transmission":"Manual",
+    "Mileage":"26.2 kmpl",
+    "Price":381120
+  },
+  {
+    "Model":"Hyundai",
+    "Year":9,
+    "Km_Driven":"77K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"22.54 kmpl",
+    "Price":683100
+  },
+  {
+    "Model":"Honda",
+    "Year":2,
+    "Km_Driven":"98K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"23.7 kmpl",
+    "Price":914100
+  },
+  {
+    "Model":"Hyundai",
+    "Year":8,
+    "Km_Driven":"109K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.9 kmpl",
+    "Price":438480
+  },
+  {
+    "Model":"Nissan",
+    "Year":6,
+    "Km_Driven":"79K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Automatic",
+    "Mileage":"19.34 kmpl",
+    "Price":449700
+  },
+  {
+    "Model":"Maruti",
+    "Year":9,
+    "Km_Driven":"63K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"23.2 kmpl",
+    "Price":418740
+  },
+  {
+    "Model":"Hyundai",
+    "Year":5,
+    "Km_Driven":"31K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"19.77 kmpl",
+    "Price":605040
+  },
+  {
+    "Model":"Hyundai",
+    "Year":8,
+    "Km_Driven":"107K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.6 kmpl",
+    "Price":585300
+  },
+  {
+    "Model":"Mahindra",
+    "Year":5,
+    "Km_Driven":"128K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"16 kmpl",
+    "Price":1310880
+  },
+  {
+    "Model":"Hyundai",
+    "Year":6,
+    "Km_Driven":"72K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.6 kmpl",
+    "Price":654420
+  },
+  {
+    "Model":"Hyundai",
+    "Year":8,
+    "Km_Driven":"93K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"22.54 kmpl",
+    "Price":696780
+  },
+  {
+    "Model":"Hyundai",
+    "Year":8,
+    "Km_Driven":"94K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"22.54 kmpl",
+    "Price":717060
+  },
+  {
+    "Model":"Hyundai",
+    "Year":9,
+    "Km_Driven":"80K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"19.81 kmpl",
+    "Price":389880
+  },
+  {
+    "Model":"Hyundai",
+    "Year":6,
+    "Km_Driven":"34K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"21.1 kmpl",
+    "Price":339900
+  },
+  {
+    "Model":"Hyundai",
+    "Year":12,
+    "Km_Driven":"65K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"20.36 kmpl",
+    "Price":278388
+  },
+  {
+    "Model":"Hyundai",
+    "Year":10,
+    "Km_Driven":"105K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"21.9 kmpl",
+    "Price":519120
+  },
+  {
+    "Model":"Ford",
+    "Year":9,
+    "Km_Driven":"67K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"22.7 kmpl",
+    "Price":597360
+  },
+  {
+    "Model":"Maruti",
+    "Year":6,
+    "Km_Driven":"45K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"24.07 kmpl",
+    "Price":396180
+  },
+  {
+    "Model":"Honda",
+    "Year":5,
+    "Km_Driven":"90K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"16.5 kmpl",
+    "Price":752460
+  },
+  {
+    "Model":"Hyundai",
+    "Year":8,
+    "Km_Driven":"36K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.6 kmpl",
+    "Price":605220
+  },
+  {
+    "Model":"Honda",
+    "Year":8,
+    "Km_Driven":"88K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.7 kmpl",
+    "Price":520080
+  },
+  {
+    "Model":"Hyundai",
+    "Year":9,
+    "Km_Driven":"49K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.6 kmpl",
+    "Price":622440
+  },
+  {
+    "Model":"Hyundai",
+    "Year":6,
+    "Km_Driven":"75K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.6 kmpl",
+    "Price":713940
+  },
+  {
+    "Model":"Hyundai",
+    "Year":7,
+    "Km_Driven":"75K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"22.54 kmpl",
+    "Price":716580
+  },
+  {
+    "Model":"Kia",
+    "Year":3,
+    "Km_Driven":"111K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Automatic",
+    "Mileage":"17.8 kmpl",
+    "Price":1714620
+  },
+  {
+    "Model":"Hyundai",
+    "Year":6,
+    "Km_Driven":"59K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"22.54 kmpl",
+    "Price":796680
+  },
+  {
+    "Model":"Ford",
+    "Year":7,
+    "Km_Driven":"52K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.5 kmpl",
+    "Price":524280
+  },
+  {
+    "Model":"Hyundai",
+    "Year":7,
+    "Km_Driven":"51K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.9 kmpl",
+    "Price":589740
+  },
+  {
+    "Model":"Hyundai",
+    "Year":2,
+    "Km_Driven":"21K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"20.7 kmpl",
+    "Price":785220
+  },
+  {
+    "Model":"Hyundai",
+    "Year":6,
+    "Km_Driven":"81K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"19.77 kmpl",
+    "Price":582120
+  },
+  {
+    "Model":"Honda",
+    "Year":6,
+    "Km_Driven":"58K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"25.6 kmpl",
+    "Price":1134720
+  },
+  {
+    "Model":"Hyundai",
+    "Year":2,
+    "Km_Driven":"79K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"25.2 kmpl",
+    "Price":1080120
+  },
+  {
+    "Model":"Honda",
+    "Year":1,
+    "Km_Driven":"75K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.6 kmpl",
+    "Price":813960
+  },
+  {
+    "Model":"Hyundai",
+    "Year":8,
+    "Km_Driven":"107K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"21.19 kmpl",
+    "Price":721140
+  },
+  {
+    "Model":"Maruti",
+    "Year":9,
+    "Km_Driven":"83K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"23.2 kmpl",
+    "Price":414660
+  },
+  {
+    "Model":"Honda",
+    "Year":6,
+    "Km_Driven":"54K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"16.5 kmpl",
+    "Price":826740
+  },
+  {
+    "Model":"Hyundai",
+    "Year":7,
+    "Km_Driven":"81K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"19.67 kmpl",
+    "Price":1016400
+  },
+  {
+    "Model":"Hyundai",
+    "Year":5,
+    "Km_Driven":"102K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Automatic",
+    "Mileage":"22 kmpl",
+    "Price":1083360
+  },
+  {
+    "Model":"Honda",
+    "Year":5,
+    "Km_Driven":"45K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Automatic",
+    "Mileage":"17.1 kmpl",
+    "Price":717780
+  },
+  {
+    "Model":"Maruti",
+    "Year":5,
+    "Km_Driven":"86K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"28.09 kmpl",
+    "Price":957780
+  },
+  {
+    "Model":"Maruti",
+    "Year":10,
+    "Km_Driven":"62K km",
+    "Engine_Type":"Petrol+cng",
+    "Transmission":"Manual",
+    "Mileage":"26.2 kmpl",
+    "Price":381120
+  },
+  {
+    "Model":"Hyundai",
+    "Year":9,
+    "Km_Driven":"77K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"22.54 kmpl",
+    "Price":683100
+  },
+  {
+    "Model":"Honda",
+    "Year":2,
+    "Km_Driven":"98K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"23.7 kmpl",
+    "Price":914100
+  },
+  {
+    "Model":"Hyundai",
+    "Year":8,
+    "Km_Driven":"109K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.9 kmpl",
+    "Price":438480
+  },
+  {
+    "Model":"Nissan",
+    "Year":6,
+    "Km_Driven":"79K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Automatic",
+    "Mileage":"19.34 kmpl",
+    "Price":449700
+  },
+  {
+    "Model":"Maruti",
+    "Year":9,
+    "Km_Driven":"63K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"23.2 kmpl",
+    "Price":418740
+  },
+  {
+    "Model":"Hyundai",
+    "Year":5,
+    "Km_Driven":"31K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"19.77 kmpl",
+    "Price":605040
+  },
+  {
+    "Model":"Hyundai",
+    "Year":8,
+    "Km_Driven":"107K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.6 kmpl",
+    "Price":585300
+  },
+  {
+    "Model":"Mahindra",
+    "Year":5,
+    "Km_Driven":"128K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"16 kmpl",
+    "Price":1310880
+  },
+  {
+    "Model":"Hyundai",
+    "Year":6,
+    "Km_Driven":"72K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.6 kmpl",
+    "Price":654420
+  },
+  {
+    "Model":"Hyundai",
+    "Year":8,
+    "Km_Driven":"93K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"22.54 kmpl",
+    "Price":696780
+  },
+  {
+    "Model":"Hyundai",
+    "Year":8,
+    "Km_Driven":"94K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"22.54 kmpl",
+    "Price":717060
+  },
+  {
+    "Model":"Hyundai",
+    "Year":9,
+    "Km_Driven":"80K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"19.81 kmpl",
+    "Price":389880
+  },
+  {
+    "Model":"Maruti",
+    "Year":6,
+    "Km_Driven":"50K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Automatic",
+    "Mileage":"19.56 kmpl",
+    "Price":763380
+  },
+  {
+    "Model":"Maruti",
+    "Year":6,
+    "Km_Driven":"86K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Automatic",
+    "Mileage":"20.89 kmpl",
+    "Price":638880
+  },
+  {
+    "Model":"Maruti",
+    "Year":8,
+    "Km_Driven":"80K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"22.9 kmpl",
+    "Price":518760
+  },
+  {
+    "Model":"Hyundai",
+    "Year":6,
+    "Km_Driven":"99K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"21.19 kmpl",
+    "Price":771000
+  },
+  {
+    "Model":"Honda",
+    "Year":5,
+    "Km_Driven":"78K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"25.6 kmpl",
+    "Price":1212240
+  },
+  {
+    "Model":"Maruti",
+    "Year":6,
+    "Km_Driven":"104K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"23.65 kmpl",
+    "Price":825000
+  },
+  {
+    "Model":"Maruti",
+    "Year":5,
+    "Km_Driven":"62K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Automatic",
+    "Mileage":"19.56 kmpl",
+    "Price":746580
+  },
+  {
+    "Model":"Maruti",
+    "Year":6,
+    "Km_Driven":"117K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"23.65 kmpl",
+    "Price":788520
+  },
+  {
+    "Model":"Maruti",
+    "Year":5,
+    "Km_Driven":"101K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"24 kmpl",
+    "Price":1014600
+  },
+  {
+    "Model":"Honda",
+    "Year":7,
+    "Km_Driven":"85K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Automatic",
+    "Mileage":"17.01 kmpl",
+    "Price":585660
+  },
+  {
+    "Model":"Maruti",
+    "Year":11,
+    "Km_Driven":"37K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"20.92 kmpl",
+    "Price":259584
+  },
+  {
+    "Model":"Maruti",
+    "Year":9,
+    "Km_Driven":"23K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.6 kmpl",
+    "Price":548460
+  },
+  {
+    "Model":"Hyundai",
+    "Year":8,
+    "Km_Driven":"118K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"21.19 kmpl",
+    "Price":654180
+  },
+  {
+    "Model":"Maruti",
+    "Year":5,
+    "Km_Driven":"25K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"21.01 kmpl",
+    "Price":750300
+  },
+  {
+    "Model":"Ford",
+    "Year":6,
+    "Km_Driven":"99K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"25.83 kmpl",
+    "Price":512160
+  },
+  {
+    "Model":"Renault",
+    "Year":3,
+    "Km_Driven":"28K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"22 kmpl",
+    "Price":477840
+  },
+  {
+    "Model":"Hyundai",
+    "Year":8,
+    "Km_Driven":"112K km",
+    "Engine_Type":"Diesel",
+    "Transmission":"Manual",
+    "Mileage":"21.19 kmpl",
+    "Price":682560
+  },
+  {
+    "Model":"Renault",
+    "Year":5,
+    "Km_Driven":"40K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"23.01 kmpl",
+    "Price":397920
+  },
+  {
+    "Model":"Maruti",
+    "Year":2,
+    "Km_Driven":"41K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"21.21 kmpl",
+    "Price":778680
+  },
+  {
+    "Model":"Hyundai",
+    "Year":8,
+    "Km_Driven":"72K km",
+    "Engine_Type":"Petrol",
+    "Transmission":"Manual",
+    "Mileage":"18.9 kmpl",
+    "Price":513300
+  }
+]
